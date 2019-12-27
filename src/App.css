@@ -1,0 +1,47 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, .card-body>h5 {
+font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: #3046C5;
+}
+
+.card-img-overlay h5 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+#img-carousel {
+  width:100%;
+  height:27vw;
+  object-fit:cover;
+}
+
+/*.jumbotron {
+  background-image: url("/assets/images/header.jpg");
+  background-size: cover;
+  
+}
+
+.jumbotron h2 {
+  color: #CEC8FF;
+}*/
+
+.navbar-dark {
+  background-color: burlywood;
+}
